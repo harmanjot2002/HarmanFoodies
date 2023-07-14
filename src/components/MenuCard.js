@@ -1,7 +1,7 @@
 import React from 'react'
 
 const MenuCard = ({menuData}) => {
-    console.log(menuData);
+    // console.log(menuData);
     const myStyle={color:"red"};
     return (
         <>
